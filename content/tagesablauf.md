@@ -1,11 +1,12 @@
 ---
 title: "Tagesablauf"
 description: "."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/images/sandkiste.jpg'
 menu:
   main:
-    weight: 1
+    weight: 3
 ---
+
 
 |                   |                                                                 |
 | ------------------|-----------------------------------------------------------------|
@@ -17,5 +18,8 @@ menu:
 | 14:00 - 15:00  	| Freispiel draußen und Verabschiedung                            |
 
 **Bringzeit**: 	7:30 - 9:00
-
 **Abholzeit**:   	14:00 - 15:00
+
+{{< rawhtml >}}
+<img src="/images/snack.jpg" class="br4 w5 -eft-1">
+{{< /rawhtml >}}

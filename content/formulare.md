@@ -1,10 +1,10 @@
 ---
 title: "Formulare"
 description: ""
-featured_image: '/images/memory.jpg'
+featured_image: '/images/sandkiste.jpg'
 menu:
   main:
-    weight: 1
+    weight: 5
 ---
 
 - Link zum Anfrage Formular

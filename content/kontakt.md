@@ -1,10 +1,10 @@
 ---
 title: "Kontakt"
 description: ""
-featured_image: '/images/memory.jpg'
+featured_image: '/images/sandkiste.jpg'
 menu:
   main:
-    weight: 1
+    weight: 6
 ---
 
 {{< form-contact action="https://formspree.io/your@email.com" >}}

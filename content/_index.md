@@ -8,4 +8,8 @@ draft: false
 
 Jedes Kind ist individuell und besonders. Jedes Kind hat eigene Interessen, Bedürfnisse und ein eigenes Tempo. Jedes Kind ist willkommen. Jedes Kind hat Rechte.
 
-Im Moment sind noch 2 Plätze ab dem 01.09.2024 frei. Button „Betreuungsplatzanfrage“  button soll nicht mehr funktionieren wenn voll
+Im Moment sind noch 2 Plätze ab dem 01.09.2024 frei. 
+
+{{< rawhtml >}}
+<button class="pa2 bg-light-gray link ba bw1 bg-hover-moon-gray grow black br3">Betreuungsplatzanfrage</button>
+{{< /rawhtml >}}
