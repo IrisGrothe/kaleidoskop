@@ -5,4 +5,4 @@ theme = 'ananke'
 [params]
   body_classes = "sans-serif bg-light-gray "
   text_color = "darkgray"
-
+  recent_posts_number = 0
