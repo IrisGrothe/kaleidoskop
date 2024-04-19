@@ -3,8 +3,6 @@ languageCode = 'de'
 title = 'Kindertagespflege Kaleidoskop'
 theme = 'ananke'
 [params]
-  body_classes = "sans-serif bg-near-white"
-  text_color = "purple"
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+  body_classes = "sans-serif bg-light-gray "
+  text_color = "darkgray"
+
