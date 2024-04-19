@@ -23,7 +23,7 @@ Wir sind mit der Straßenbahn gut zu erreichen, und es gibt ausreichend Parkplä
 
 {{< rawhtml >}}
 <div class="flex">
-<img src="/images/bobbycar.jpg" class="br4 ma1 w-50 h-50">
+<img src="/kaleidoskop/images/bobbycar.jpg" class="br4 ma1 w-50 h-50">
 <img src="/images/spielzeug.jpg" class="br4 p5 ma1 w-50">
 </div>
 {{< /rawhtml >}}

@@ -21,5 +21,5 @@ menu:
 **Abholzeit**:   	14:00 - 15:00
 
 {{< rawhtml >}}
-<img src="/images/snack.jpg" class="br4 w5 -eft-1">
+<img src="/kaleidoskop/images/snack.jpg" class="br4 w5 -eft-1">
 {{< /rawhtml >}}

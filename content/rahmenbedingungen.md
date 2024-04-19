@@ -20,6 +20,6 @@ Drei Tage werden zusätzlich für Fortbildung genutzt und rechtzeitig vorher mit
 
 
 {{< rawhtml >}}
-<img src="/images/memory.jpg" class="br4 w5 left-1">
+<img src="/kaleidoskop/images/memory.jpg" class="br4 w5 left-1">
 {{< /rawhtml >}}
 

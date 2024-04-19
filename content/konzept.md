@@ -31,8 +31,8 @@ Dieses Ziel wird bei Kaleidoskop umgesetzt durch Freispiel in den Tagesablauf fe
 
 {{< rawhtml >}}
 <div class="flex full-width">
-<img src="/images/sandkiste_mit_iris.jpg" class="br4 ma1 w-50">
-<img src="/images/ballspielen.jpg" class="br4 p5 ma1 w-50">
+<img src="/kaleidoskop/images/sandkiste_mit_iris.jpg" class="br4 ma1 w-50">
+<img src="/kaleidoskop/images/ballspielen.jpg" class="br4 p5 ma1 w-50">
 </div>
 {{< /rawhtml >}}
 
