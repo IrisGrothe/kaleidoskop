@@ -5,6 +5,8 @@ featured_image: '/images/sandkiste.jpg'
 menu:
   main:
     weight: 5
+draft: true
+
 ---
 
 - Link zum Anfrage Formular

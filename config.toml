@@ -3,6 +3,7 @@ languageCode = 'de'
 title = 'Kindertagespflege Kaleidoskop'
 theme = 'ananke'
 [params]
-  body_classes = "sans-serif bg-light-gray "
+  body_classes = "abel-regular bg-light-gray"
   text_color = "darkgray"
   recent_posts_number = 0
+
