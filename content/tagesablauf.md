@@ -1,6 +1,6 @@
 ---
 title: "Tagesablauf"
-description: "."
+description: ""
 featured_image: '/images/sandkiste.jpg'
 menu:
   main:
