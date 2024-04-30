@@ -5,6 +5,7 @@ featured_image: '/images/sandkiste.jpg'
 menu:
   main:
     weight: 3
+id: tagesablauf
 ---
 
 

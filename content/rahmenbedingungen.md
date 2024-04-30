@@ -5,6 +5,7 @@ featured_image: '/images/sandkiste.jpg'
 menu:
   main:
     weight: -1
+id: rahmenbedingungen
 ---
 
 Die Kindertagespflege findet bei uns im eigenen Haus, in einem familiären Umfeld statt. Ich arbeite als Kindertagespflegeperson mit einer Pflegeerlaubnis nach § 43 SGB VIII, ausgestellt für die Betreuung von fünf Kindern.

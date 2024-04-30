@@ -2,6 +2,7 @@
 title: "Impressum"
 description: ""
 featured_image: '/images/sandkiste.jpg'
+id: impressum
 ---
 
 ## Angaben gem. § 5 TMG:

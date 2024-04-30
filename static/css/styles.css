@@ -13,3 +13,19 @@
 strong {
   color: #0c4a93
 }
+
+div#rahmenbedingungen
+{
+  background-color: #ffe8c5;
+}
+div#raumlichkeiten{
+  background-color: #f2ffc5;
+}
+
+div#rahmenbedingungen {
+  background-color: #ffe8c5;
+}
+
+div#tagesablauf {
+  background-color: #edfcff;
+}

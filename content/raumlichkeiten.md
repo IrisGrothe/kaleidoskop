@@ -5,6 +5,7 @@ featured_image: '/images/sandkiste.jpg'
 menu:
   main:
     weight: 4
+id: raumlichkeiten
 ---
 
 Zentraler Raum für die Kindertagespflege ist ein großes Wohnzimmer. Im Wohnzimmer befindet sich ein **Podest**, das zum Klettern und bespielen benutzt werden kann. Eine Turnmatte neben dem Podest hilft den kleineren hoch zu klettern und funktioniert außerdem als Fallschutz. 

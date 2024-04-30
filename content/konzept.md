@@ -5,6 +5,7 @@ featured_image: '/images/sandkiste.jpg'
 menu:
   main:
     weight: 2
+id: konzept
 ---
 
 Im Vordergrund meiner Arbeit steht immer das Kind mit seiner eigenständigen Persönlichkeit und seinen individuellen Bedürfnissen. Ich möchte jedes Kind als Individuum annehmen, unterstützen und mit seiner individuellen Herkunft, Bedürfnisse und Interessen ernst nehmen. Ich sehe mich dabei als Wegbegleiter und Ko-Konstrukteur. Zentral in meiner Arbeit steht daher die Hinwendung zum Kind: Es soll **Sicherheit fühlen und Wertschätzung** erleben.
