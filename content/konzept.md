@@ -19,7 +19,7 @@ Ich möchte, dass diese Neugier und Entdeckungsfreude nicht durch starre Regel u
 
 ### 1. Partizipation
 
-Den Kindern werden im Rahmen ihrer Möglichkeiten, und angepasst an ihren Entwicklungsstand, Wahl und Entscheidungsfreiräume eingeräumt. Regeln und Grenzen werden transparent kommuniziert. Im Rahmen der Partizipation findet Ko-Konstruktion statt. Dies meint, das Lernen im Zusammenarbeit stattfindet: **Die Kinder lernen gemeinschaftlich mit mir und den anderen Kindern in der Interaktion**.  Lernen geht aktiv vom Kind und seinen Impulsen aus und entwickelt sich dann in Interaktion mit seiner Umwelt weiter: das Kind mit seiner angeborenen Neugier der aktive Konstrukteur seiner eigenen Bildung.
+Den Kindern werden im Rahmen ihrer Möglichkeiten, und angepasst an ihren Entwicklungsstand, Wahl und Entscheidungsfreiräume eingeräumt. Regeln und Grenzen werden transparent kommuniziert. Im Rahmen der Partizipation findet Ko-Konstruktion statt. Dies meint, das Lernen im Zusammenarbeit stattfindet: **Die Kinder lernen gemeinschaftlich mit mir und den anderen Kindern in der Interaktion**.  Lernen geht aktiv vom Kind und seinen Impulsen aus und entwickelt sich dann in Interaktion mit seiner Umwelt weiter: Das Kind mit seiner angeborenen Neugier ist der aktive Konstrukteur seiner eigenen Bildung.
 
 Partizipation erfordert für mich, dass ich den Kindern zutraue eigene Entscheidungen treffen zu können, auch schon bereits den Kleinsten. Das bedeutet auch, dass ich es ermögliche, dass den Kindern selber Erfahrungen machen können, auch wenn sie dabei andere Lösungswege wählen als meine. 
 
