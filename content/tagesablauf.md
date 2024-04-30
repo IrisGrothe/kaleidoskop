@@ -13,9 +13,9 @@ id: tagesablauf
 | ----------------|-----------------------------------------------------------------|
 | 7:30 	 	        | Ankommen und Freispiel                                          |
 | 9:15		        | Gemeinsames kleines Frühstück                                   |
-| bis 11:30	      | Freispiel/Bastelangebot/Musik/Kamishibai/Wochenmarkt/Spielplatz |
+| bis 11:30	      | Freispiel / Bastelangebot / Musik / Kamishibai / Wochenmarkt / Spielplatz |
 | 11:30		        | Gemeinsames Mittagessen                                         |
-| 12:00		        | Mittagsschlaf/Ruhezeit                                          |
+| 12:00		        | Mittagsschlaf / Ruhezeit                                        |
 | 14:00 - 15:00  	| Freispiel draußen und Verabschiedung                            |
 
 
