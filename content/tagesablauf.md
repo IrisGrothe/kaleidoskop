@@ -20,7 +20,7 @@ id: tagesablauf
 
 
 {{< rawhtml >}}
-<div class="dt mw6 center pt0 pb5 pv5-m pv6-ns mt4">
+<div class="dt mw6 center pt0 pb5 pv2-m pv2-ns mt2">
   <div class="db dtc-ns v-mid-ns">
     <img src="/images/snack.jpg" alt="Snack im Garten" class="w-100 mw7 w5-ns br3" />
   </div>
