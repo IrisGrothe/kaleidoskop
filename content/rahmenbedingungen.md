@@ -7,7 +7,7 @@ menu:
     weight: -1
 ---
 
-Die Kindertagespflege findet bei uns im eigenen Haus, in einem familiären Umfeld statt. Ich arbeite als Kindertagespflegeperson mit einer Pflegeerlaubnis nach § 43 SGB VIII, ausgestellt für die Betreuung von fünf Kindern
+Die Kindertagespflege findet bei uns im eigenen Haus, in einem familiären Umfeld statt. Ich arbeite als Kindertagespflegeperson mit einer Pflegeerlaubnis nach § 43 SGB VIII, ausgestellt für die Betreuung von fünf Kindern.
 
 Meine regelmäßigen Betreuungszeiten sind **Dienstags bis Freitags von 7:30 bis 15:00 Uhr**.
 
