@@ -13,7 +13,7 @@ Im Moment sind bei Kaleidoskop (in Bremen Borgfeld) noch 2 Plätze ab dem 01.09.
 {{< rawhtml >}}
 
 <a href="mailto:info@kinder-kaleidoskop.de?subject=Betreuungsplatzanfrage bei Kaleidoskop">
-<button class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"><strong>Betreuungsplatzanfrage</strong></button>
+<button class="ba bg-light-gray br2 f3 hover-bg-moon-gray link mt2 ph2 pv1"><strong>Betreuungsplatzanfrage</strong></button>
 </a>
 
 {{< /rawhtml >}}
