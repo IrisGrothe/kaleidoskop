@@ -11,7 +11,7 @@ Jedes Kind ist individuell und besonders. Jedes Kind hat eigene Interessen, BedÃ
 Im Moment sind noch 2 PlÃ¤tze ab dem 01.09.2024 frei. 
 
 {{< rawhtml >}}
-<a href="mailto:info@kinder-kaleidoskop.de?subject=Betreuungsplatzanfrage bei Kaleidoskop">
-<button class="pa2 bg-light-gray link ba bw1 bg-hover-moon-gray grow black br3 center"><strong>Betreuungsplatzanfrage<strong></button>
-</a>
+
+<button class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"><strong><a href="mailto:info@kinder-kaleidoskop.de?subject=Betreuungsplatzanfrage bei Kaleidoskop">Betreuungsplatzanfrage</a></strong></button>
+
 {{< /rawhtml >}}
