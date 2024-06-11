@@ -14,7 +14,7 @@ id: rahmenbedingungen
     <img src="/images/memory.jpg" class="br3">
   </div>
   <div class="w-100 w-100-ns w-60-m w-60-l pa3 pa3-ns">
-  <p class="mt0">Die Kindertagespflege findet in Bremen Borgfeld, im eigenen Haus, in einem familiären Umfeld statt. Ich arbeite als Kindertagespflegeperson mit einer Pflegeerlaubnis nach § 43 SGB VIII, ausgestellt für die Betreuung von fünf Kindern.</p>
+  <p class="mt0">Die Kindertagespflege findet in Bremen Borgfeld, im eigenen Haus, in einem familiären Umfeld statt. Ich arbeite als Kindertagespflegeperson ("Tagesmutter") mit einer Pflegeerlaubnis nach § 43 SGB VIII, ausgestellt für die Betreuung von fünf Kindern.</p>
   <p>Meine regelmäßigen Betreuungszeiten sind <strong>dienstags bis Freitags von 7:30 bis 15:00 Uhr</strong>.</p>
   </div>
 </div>
