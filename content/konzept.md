@@ -13,7 +13,7 @@ Im Vordergrund meiner Arbeit steht immer das Kind mit seiner eigenständigen Per
 Die Entwicklung von Kleinkindern findet mit seinem gesamten Körper und allen Sinnen statt: Kinder lernen ganzheitlich, selbstbestimmt und forschend. Kinder sammeln Informationen über die Umwelt durch tasten, fühlen, riechen, sehen, hören, schmecken und sich aktiv in der Umgebung zu bewegen. Sie wollen alles anfassen und ausprobieren um eigene, innere Bilder ihrer Umwelt zu schaffen. 
 
 {{< rawhtml >}}
-<blockquote><p>Jedes Kind, das dazu fähig ist, sich eine eigene Meinung zu bilden, hat das Recht, diese in allen das Kind berührenden Angelegenheiten frei zu äußern und es wird ihm zugesichert, dass diese Meinung angemessen und entsprechend seinem Aler und seiner Reife berücksichtigt wird.</p>
+<blockquote><p>Jedes Kind, das dazu fähig ist, sich eine eigene Meinung zu bilden, hat das Recht, diese in allen das Kind berührenden Angelegenheiten frei zu äußern und es wird ihm zugesichert, dass diese Meinung angemessen und entsprechend seinem Alter und seiner Reife berücksichtigt wird.</p>
 <h4><em><a href="https://www.unicef.de/informieren/ueber-uns/fuer-kinderrechte/un-kinderrechtskonvention#pdf">UN-Konvention über die Rechte des Kindes</a></em></h4>
 </blockquote>
 {{< /rawhtml >}}
