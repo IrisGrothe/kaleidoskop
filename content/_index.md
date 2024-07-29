@@ -8,7 +8,7 @@ draft: false
 
 Jedes Kind ist individuell und besonders. Jedes Kind hat eigene Interessen, Bedürfnisse und ein eigenes Tempo. Jedes Kind ist willkommen. Jedes Kind hat Rechte.
 
-Im Moment ist bei Kaleidoskop (Tagesmutter/Kindertagespflege Bremen Borgfeld) noch 1 Platz ab dem 01.09.2024 frei. 
+Im Moment ist bei Kaleidoskop (Tagesmutter/Kindertagespflege Bremen Borgfeld) noch 1 Platz ab dem 01.10.2024 frei. 
 
 {{< rawhtml >}}
 
