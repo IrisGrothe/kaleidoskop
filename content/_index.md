@@ -17,10 +17,13 @@ Im Moment ist bei Kaleidoskop (Tagesmutter/Kindertagespflege Bremen Borgfeld) no
 </a>
 
 
-<div class="flex full-width mt4">
-<p>Gefördert durch:</p>
-<img src="/images/skb_logo.png" class="br4 ma1 w-50">
+<div class="flex flex-wrap">
+    <div class="w-100 w-100-ns w-50-l pa2">
+        <p>Gefördert durch:</p>
+    </div>
+    <div class="w-100 w-100-ns w-100-m w-50-l m0 pa0 pa2-ns">
+        <img src="/images/skb_logo.png" alt="Senatorin für Kinder und Bildung" class="br4 ma1">
+    </div>
 </div>
-
 
 {{< /rawhtml >}}
