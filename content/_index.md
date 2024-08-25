@@ -16,4 +16,11 @@ Im Moment ist bei Kaleidoskop (Tagesmutter/Kindertagespflege Bremen Borgfeld) no
 <button class="ba bg-light-gray br2 f3 hover-bg-moon-gray link mt2 ph2 pv1"><strong>Betreuungsplatzanfrage</strong></button>
 </a>
 
+
+<div class="flex full-width mt4">
+<p>Gefördert durch:</p>
+<img src="/kaleidoskop/images/skb_logo.png" class="br4 ma1 w-50">
+</div>
+
+
 {{< /rawhtml >}}
