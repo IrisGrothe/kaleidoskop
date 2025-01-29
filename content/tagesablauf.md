@@ -13,7 +13,7 @@ id: tagesablauf
 | ----------------|-----------------------------------------------------------------|
 | 7:30 	 	        | Ankommen und Freispiel                                          |
 | 8:30		        | Gemeinsames kleines Frühstück                                   |
-| 9:30            | Ruhezeit (Spaziergang)                                          |
+| 9:30            | Ruhezeit (Spaziergang im Wagen / Vorlesen / Yoga)               |
 | 10:30           | Freispiel / Bastelangebot / Musik / Kamishibai / Wochenmarkt / Spielplatz |
 | 12:00		        | Gemeinsames Mittagessen                                         |
 | 13:00		        | Mittagsschlaf / Ruhezeit                                        |
