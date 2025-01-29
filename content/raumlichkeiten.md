@@ -14,7 +14,7 @@ Zentraler Raum für die Kindertagespflege ist ein großes Wohnzimmer. Im Wohnzim
 {{< rawhtml >}}
 <div class="flex flex-wrap">
 <div class="w-100 w-100-ns w-50-l pa2">
-    <p><strong>Spielzeuge, Bücher und Materialen können von den Kindern selber aus den Schränken neben dem Podest geholt werden</strong>. Für Rollenspiele steht eine kleine Spielküche und Verkleidungskiste bereit. Ein Kindertisch mit Sitzkissen ist für das Basteln, Puzzeln und für die gemeinsame Mahlzeit da. Umgewandelt zur Schlaflandschaft wird das Podest zum Schlafen genutzt. Es steht ein separates Ruhezimmer zur Verfügung für die Kinder, die nicht schlafen wollen. 
+    <p><strong>Spielzeuge, Bücher und Materialen können von den Kindern selber aus den Schränken neben dem Podest geholt werden</strong>. Für Rollenspiele steht eine kleine Spielküche und Verkleidungskiste bereit. Ein Kindertisch mit Sitzkissen ist für das Basteln, Puzzeln und für die gemeinsame Mahlzeit da. Es steht ein separates Ruhezimmer zur Verfügung wo die Kinder sich bei Bedarf zurückziehen können. Hier liegen auch die Matratzen für den Mittagschlaf.
  </p>
   </div>
   <div class="w-100 w-100-ns w-100-m w-50-l pa0 pa2-ns">
