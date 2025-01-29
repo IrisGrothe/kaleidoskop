@@ -9,6 +9,7 @@ draft: false
 Jedes Kind ist individuell und besonders. Jedes Kind hat eigene Interessen, Bedürfnisse und ein eigenes Tempo. Jedes Kind ist willkommen. Jedes Kind hat Rechte.
 
 Für das Jahr 2025/2026 sind bei Kaleidoskop (Tagesmutter/Kindertagespflege Bremen Borgfeld) <strong>keine</strong> Plätze frei. 
+
 Anmeldungen für das Jahr 2026/2027 werden ab Juni 2025 entgegengenommen.
 
 {{< rawhtml >}}
