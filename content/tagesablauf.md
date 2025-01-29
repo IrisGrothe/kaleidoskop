@@ -12,11 +12,12 @@ id: tagesablauf
 |                 |                                                                 |
 | ----------------|-----------------------------------------------------------------|
 | 7:30 	 	        | Ankommen und Freispiel                                          |
-| 9:15		        | Gemeinsames kleines Frühstück                                   |
-| bis 11:30	      | Freispiel / Bastelangebot / Musik / Kamishibai / Wochenmarkt / Spielplatz |
-| 11:30		        | Gemeinsames Mittagessen                                         |
-| 12:00		        | Mittagsschlaf / Ruhezeit                                        |
-| 14:00 - 15:00  	| Freispiel draußen und Verabschiedung                            |
+| 8:30		        | Gemeinsames kleines Frühstück                                   |
+| 9:30            | Ruhezeit (Spaziergang)                                          |
+| 10:30           | Freispiel / Bastelangebot / Musik / Kamishibai / Wochenmarkt / Spielplatz |
+| 12:00		        | Gemeinsames Mittagessen                                         |
+| 13:00		        | Mittagsschlaf / Ruhezeit                                        |
+| 14:00 - 15:00  	| Freispiel und Verabschiedung                                    |
 
 
 {{< rawhtml >}}
@@ -26,7 +27,7 @@ id: tagesablauf
   </div>
   <div class="db dtc-ns v-mid ph2 pr0-ns pl3-ns">
     <p class="lh-copy">
-    <p><strong>Bringzeit: 7:30 - 9:00</strong></p>
+    <p><strong>Bringzeit: 7:30 - 8:30</strong></p>
     <p><strong>Abholzeit: 14:00 - 15:00</strong>    </p>
     </p>
   </div>
