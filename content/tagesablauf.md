@@ -17,7 +17,7 @@ id: tagesablauf
 | 10:30           | Freispiel / Bastelangebot / Musik / Kamishibai / Wochenmarkt / Spielplatz |
 | 12:00		        | Gemeinsames Mittagessen                                         |
 | 13:00		        | Mittagsschlaf / Ruhezeit                                        |
-| 14:00 - 15:00  	| Freispiel und Verabschiedung                                    |
+| 14:30         	| Verabschiedung                                                  |
 
 
 {{< rawhtml >}}
