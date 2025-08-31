@@ -41,7 +41,7 @@ Die Küche in der ich die Speisen in Sichtweite Ihrer Kinder zubereite, liegt un
 
 Unsere Räumlichkeiten, inkl. der Garten sind **zum größten Teil barrierefrei**!
 
-Mit dem Bollerwagen machen wir regelmäßig Spaziergänge. Jeden Mittwoch besuchen wir den **Wochenmarkt**.
+Mit dem Bollerwagen machen wir regelmäßig Spaziergänge. Einmal im Monat besuchen wir den **Wochenmarkt**.
 
 Wir sind mit der Straßenbahn gut zu erreichen, und es gibt ausreichend Parkplätze direkt vorm Haus. Kinderwagen und Buggys können bei Bedarf draußen überdacht abgestellt werden.
 
